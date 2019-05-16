@@ -1,5 +1,5 @@
 {
-  "name": "ui-lib",
+  "name": "js_quiz",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -11,7 +11,7 @@
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://Lucascoorek.github.io/ui-components",
+  "homepage": "https://Lucascoorek.github.io/js_quiz",
   "devDependencies": {
     "@babel/core": "^7.4.3",
     "@babel/preset-env": "^7.4.3",
