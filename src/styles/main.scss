@@ -1,14 +1,7 @@
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
 @import "~bootstrap/scss/bootstrap";
 
-body {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: "Open Sans", sans-serif;
-}
-section {
-  margin: 20px;
-  margin-top: 40px;
-  text-align: justify;
+.result span {
+  font-variant-numeric: tabular-nums;
+  display: inline-block;
+  width: 140px;
 }
